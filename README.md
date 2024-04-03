@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Van Brummelen 👋
 
-I'm interested in startups and fullstack development. My last project was BuzzCode ([Marketplace link](https://marketplace.visualstudio.com/items?itemName=BuzzCode.buzzcode)) and I'm now exploring developing software for online education. I'm currently on the look out for a role in fullstack development or backend with Go/Python; if you're hiring, let's chat!
+I'm interested in startups and fullstack development. My last project was BuzzCode ([Marketplace link](https://marketplace.visualstudio.com/items?itemName=BuzzCode.buzzcode)) and I'm now exploring developing software for online education. I'm looking out for a role in fullstack development or backend with Go/Python; if you're hiring, let's chat!
 <!--
 **matthewvb77/matthewvb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
