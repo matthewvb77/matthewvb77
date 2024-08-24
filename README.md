@@ -1,6 +1,6 @@
 ### Hi, I'm Matt Van Brummelen 👋
 
-I'm interested in startups, fullstack, and backend development. My last project was BuzzCode ([Marketplace link](https://marketplace.visualstudio.com/items?itemName=BuzzCode.buzzcode)) and now I'm developing [Ember Education](https://ember.ac), a course-building platform that embeds the entire student/checkout experience on creators' websites, with 100% customizable CSS. I'm on the lookout for a role in backend development with Go/Python, or fullstack; if you're hiring, let's chat!
+I'm interested in startups, fullstack, and backend development. My last project was [BuzzCode](https://marketplace.visualstudio.com/items?itemName=BuzzCode.buzzcode) and now I'm developing [Ember Education](https://ember.ac), a course-building platform that embeds the entire student/checkout experience on creators' websites, with 100% customizable CSS. I'm on the lookout for a role in backend development with Go/Python, or fullstack; if you're hiring, let's chat!
 <!--
 **matthewvb77/matthewvb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
